@@ -1,7 +1,5 @@
+First of all download Pycharm CE then download streamlit libraries and use my code then
 
-To install and run this project locally, follow these steps:
-
-Clone the repository
 
 bash
 Copy code
