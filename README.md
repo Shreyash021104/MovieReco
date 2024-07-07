@@ -12,8 +12,7 @@ Install dependencies
 bash
 Copy code
 pip install -r requirements.txt
-Set up the database
-Ensure you have your database set up and configured. Update the config.py file with your database credentials.
+
 
 Run the application
 
