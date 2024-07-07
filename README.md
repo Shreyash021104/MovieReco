@@ -1,4 +1,4 @@
-First of all download Pycharm CE then download streamlit libraries and use my code then
+First of all download Pycharm CE then download streamlit libraries and use my code 
 
 
 bash
